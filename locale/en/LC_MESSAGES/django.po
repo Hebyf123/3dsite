@@ -1,0 +1,118 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-10-02 12:49+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+#: .\cart\models.py:70 .\usersmodel\models.py:32
+msgid "Адрес"
+msgstr ""
+
+#: .\cart\models.py:71 .\usersmodel\models.py:31
+msgid "Город"
+msgstr ""
+
+#: .\cart\models.py:72 .\usersmodel\models.py:30
+msgid "Страна"
+msgstr ""
+
+#: .\cart\models.py:73 .\usersmodel\models.py:33
+msgid "Телефон"
+msgstr ""
+
+#: .\items\filters.py:6 .\items\models.py:14
+msgid "Название продукта"
+msgstr ""
+
+#: .\items\filters.py:7
+msgid "Минимальная цена от"
+msgstr ""
+
+#: .\items\filters.py:8
+msgid "Максимальная цена до"
+msgstr ""
+
+#: .\items\filters.py:9 .\items\models.py:16
+msgid "Категория"
+msgstr ""
+
+#: .\items\models.py:8
+msgid "Название категории"
+msgstr ""
+
+#: .\items\models.py:15
+msgid "Описание"
+msgstr ""
+
+#: .\items\models.py:31
+msgid "Доступен"
+msgstr ""
+
+#: .\items\models.py:31
+msgid "Недоступен"
+msgstr ""
+
+#: .\items\models.py:37
+msgid "Продукт"
+msgstr ""
+
+#: .\items\models.py:38
+msgid "Цвет"
+msgstr ""
+
+#: .\items\models.py:39
+msgid "Дополнительная цена"
+msgstr ""
+
+#: .\items\models.py:40
+msgid "Количество на складе"
+msgstr ""
+
+#: .\items\models.py:41
+msgid "3D модель"
+msgstr ""
+
+#: .\items\models.py:42
+msgid "Миниатюра"
+msgstr ""
+
+#: .\items\models.py:43
+msgid "Изображение"
+msgstr ""
+
+#: .\newsite\settings.py:224
+msgid "English"
+msgstr ""
+
+#: .\newsite\settings.py:225
+msgid "Ukraine"
+msgstr ""
+
+#: .\usersmodel\models.py:26
+msgid "Имя"
+msgstr ""
+
+#: .\usersmodel\models.py:27
+msgid "Фамилия"
+msgstr ""
+
+#: .\usersmodel\models.py:28
+msgid "Фото"
+msgstr ""
+
+#: .\usersmodel\models.py:29
+msgid "Telegram ID"
+msgstr ""
